@@ -1,6 +1,6 @@
 # 🧬 Hepatitis B Reaction–Diffusion–Advection Model
 <p align="center">
-  <img src="portada_1.png" width="50%">
+  <img src="higado.png" width="50%">
 </p>
 Finite-difference implementation of a multi-scale mathematical model (0D → 3D) of chronic Hepatitis B infection, including simulation in segmented real-liver geometry.
 

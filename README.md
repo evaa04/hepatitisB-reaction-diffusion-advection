@@ -54,7 +54,7 @@ Spatial evolution of viral load an inmune response
 
 
 ### 3D — Real liver segmentation
-![3D result](figures/result_3d.png)
+![3D result](images/liver_3D.png)
 
 ---
 

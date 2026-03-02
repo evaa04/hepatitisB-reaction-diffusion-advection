@@ -54,6 +54,9 @@ Finite Difference Method (explicit scheme).
 [View implementation](code/Step3_model1_CILINDRO_barrera.ipynb)
 
 ### 3D — Real liver segmentation
+<p>
+  <img src="figures/liver_3D.png" width="10%">
+</p>
 [View implementation](code/modelo_higado.ipynb)
 
 

@@ -5,7 +5,6 @@
 Finite-difference implementation of a multi-scale mathematical model (0D → 3D) of chronic Hepatitis B infection, including simulation in segmented real-liver geometry.
 
 
-
 ## 🚀 Project Overview
 
 This project implements a previously developed reaction–diffusion–advection model describing viral dynamics and immune response.
@@ -16,7 +15,6 @@ Main features:
 - GPU acceleration 
 - Real-liver 3D segmented geometry
 - Fully reproducible scientific notebooks
-
 
 
 ## 🧠 Mathematical Model
@@ -38,9 +36,11 @@ Finite Difference Method (explicit scheme).
 
 
 ## 📊 Results
+
 <p>
   <img src="images/step_model.jpg" width="100%">
 </p>
+
 ### 0D — Temporal Dynamics
 Time evolution of viral load and immune response.
 
@@ -52,7 +52,6 @@ Time evolution of viral load and immune response.
 
 ### 3D — Simulation in Real Liver Geometry
 ![3D result](figures/result_3d.png)
-
 
 
 ## 🧪 Reproducibility

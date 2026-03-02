@@ -48,12 +48,12 @@ Finite Difference Method (explicit scheme).
 Time evolution of viral load and immune response.
 
 ### 1D — Spatial Propagation
-![1D result](figures/result_1d.png)
+Spatial evolution of viral load an inmune response
 
-### 2D — Pattern Formation
-(Insert figure here)
+### 2D — Spatial heterogeneity
 
-### 3D — Simulation in Real Liver Geometry
+
+### 3D — Real liver segmentation
 ![3D result](figures/result_3d.png)
 
 ---

@@ -39,7 +39,7 @@ Finite Difference Method (explicit scheme).
 ---
 
 ## 📊 Results
-<p align="center">
+<p>
   <img src="steps_model.jpg" width="50%">
 </p>
 ### 0D — Temporal Dynamics

@@ -13,7 +13,7 @@ This project implements a previously developed reaction–diffusion–advection 
 Main features:
 
 - Multi-scale implementation (0D, 1D, 2D, 3D)
-- GPU acceleration (optional)
+- GPU acceleration 
 - Real-liver 3D segmented geometry
 - Fully reproducible scientific notebooks
 
@@ -21,31 +21,40 @@ Main features:
 
 ## 🧠 Mathematical Model
 
-The system describes:
+The model describes the spatio-temporal evolution of:
 
-- Viral load dynamics
-- Immune cell interactions
-- Cytokine transport
-- Spatial diffusion and advection
+- Viral load (q₁)
+- Helper T cells (Tₕ)
+- Cytotoxic T cells (T𝚌)
+- Cytokine concentration (q₃)
 
-Discretization method:
-Finite Differences (explicit scheme).
+Transport mechanisms:
+- Diffusion
+- Advection
+- Nonlinear reaction terms
+
+Numerical discretization:
+Finite Difference Method (explicit scheme).
 
 ---
 
 ## 📊 Results
 
-### 1D Spatial Dynamics
+### 0D — Temporal Dynamics
+Time evolution of viral load and immune response.
+
+### 1D — Spatial Propagation
 ![1D result](figures/result_1d.png)
 
-### 3D Simulation in Real Liver Geometry
+### 2D — Pattern Formation
+(Insert figure here)
+
+### 3D — Simulation in Real Liver Geometry
 ![3D result](figures/result_3d.png)
 
 ---
 
-## ⚙️ Installation
+## 🧪 Reproducibility
 
-```bash
-conda env create -f environment.yml
-conda activate hb-pde
-jupyter lab
+All simulations are implemented in Python using NumPy/CuPy and structured as step-by-step Jupyter notebooks.  
+The repository allows full reproduction of results from 0D to 3D simulations.

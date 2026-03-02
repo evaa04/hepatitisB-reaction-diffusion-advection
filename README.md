@@ -45,19 +45,16 @@ Finite Difference Method (explicit scheme).
 </p>
 
 ### 0D — Temporal Dynamics
-[View implementation](code/Step1_model1.ipynb)
+[Time evolution of viral load and immune response](code/Step1_model1.ipynb)
 
 ### 1D — Spatial Propagation
-[View implementation](code/Step2_model1_definitivo_vectores.ipynb)
+[Spatial evolution of viral load and immune response](code/Step2_model1_definitivo_vectores.ipynb)
 
 ### 2D — Spatial heterogeneity
-[View implementation](code/Step3_model1_CILINDRO_barrera.ipynb)
+[Influence of transport barriers on spatial dynamics](code/Step3_model1_CILINDRO_barrera.ipynb)
 
 ### 3D — Real liver segmentation
-<p>
-  <img src="figures/liver_3D.png" width="10%">
-</p>
-[View implementation](code/modelo_higado.ipynb)
+[Simulation in Segmented Liver Geometry](code/modelo_higado.ipynb)
 
 
 ---

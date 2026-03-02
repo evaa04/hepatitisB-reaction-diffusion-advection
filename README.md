@@ -4,7 +4,7 @@
 </p>
 Finite-difference implementation of a multi-scale mathematical model (0D → 3D) of chronic Hepatitis B infection, including simulation in segmented real-liver geometry.
 
----
+
 
 ## 🚀 Project Overview
 
@@ -17,7 +17,7 @@ Main features:
 - Real-liver 3D segmented geometry
 - Fully reproducible scientific notebooks
 
----
+
 
 ## 🧠 Mathematical Model
 
@@ -36,7 +36,6 @@ Transport mechanisms:
 Numerical discretization:
 Finite Difference Method (explicit scheme).
 
----
 
 ## 📊 Results
 <p>
@@ -54,7 +53,7 @@ Time evolution of viral load and immune response.
 ### 3D — Simulation in Real Liver Geometry
 ![3D result](figures/result_3d.png)
 
----
+
 
 ## 🧪 Reproducibility
 

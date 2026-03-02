@@ -40,7 +40,7 @@ Finite Difference Method (explicit scheme).
 
 ## 📊 Results
 <p>
-  <img src="steps_model.jpg" width="75%">
+  <img src="step_model.jpg" width="75%">
 </p>
 ### 0D — Temporal Dynamics
 Time evolution of viral load and immune response.

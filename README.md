@@ -1,6 +1,6 @@
 # 🧬 Hepatitis B Reaction–Diffusion–Advection Model
 <p align="center">
-  <img src="higado.png" width="100%">
+  <img src="images/higado.png" width="100%">
 </p>
 Finite-difference implementation of a multi-scale mathematical model (0D → 3D) of chronic Hepatitis B infection, including simulation in segmented real-liver geometry.
 
@@ -40,7 +40,7 @@ Finite Difference Method (explicit scheme).
 
 ## 📊 Results
 <p>
-  <img src="step_model.jpg" width="100%">
+  <img src="images/step_model.jpg" width="100%">
 </p>
 ### 0D — Temporal Dynamics
 Time evolution of viral load and immune response.

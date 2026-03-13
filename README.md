@@ -55,11 +55,3 @@ Finite Difference Method (explicit scheme).
 
 ### 3D — Real liver segmentation
 [Simulation in Segmented Liver Geometry](code/modelo_higado.ipynb)
-
-
----
-
-## 🧪 Reproducibility
-
-All simulations are implemented in Python using NumPy/CuPy and structured as step-by-step Jupyter notebooks.  
-The repository allows full reproduction of results from 0D to 3D simulations.
